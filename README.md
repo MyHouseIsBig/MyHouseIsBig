@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" width=350px height=465px />
+<img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" />
 
 I’m a full-stack web developer. I'm the creator of [Wireguard](wireguard.pw), an hosting service that offers powerful secure servers at a very cheap price. I'm currently open to job offers. 
 

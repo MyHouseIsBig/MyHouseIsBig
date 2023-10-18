@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 <img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" />
 

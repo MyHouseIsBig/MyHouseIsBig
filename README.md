@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" />
 
-[![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 - Nationality: 🍕🇮🇹-🇷🇺♟️ 
 - Age: 21

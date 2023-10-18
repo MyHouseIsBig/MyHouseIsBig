@@ -1,8 +1,5 @@
-## Full-Stack Developer
-
+<img align="center" src="./reheader.png" alt="Full-Stack Developer Maxim Palotti" />
 <img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" />
-
-![](https://komarev.com/ghpvc/?username=MyHouseIsBig)
 
 [![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 

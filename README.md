@@ -9,3 +9,7 @@
 I’m a full-stack developer/engineer. 
 I'm costantly working hard to get better at coding and make more 💰💰💰. 
 I'm currently open to job offers. 
+
+[![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MyHouseIsBig.MyHouseIsBig&left_color=green&right_color=red)

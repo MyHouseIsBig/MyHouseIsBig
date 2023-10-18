@@ -1,9 +1,10 @@
 <img align="center" src="./reheader.png" alt="Full-Stack Developer Maxim Palotti" />
 <img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" />
+  
+![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyHouseIsBig&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)
 
-[![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyHouseIsBig&layout=compact&theme=dark#gh-dark-mode-only)
+## About
 
 - Nationality: 🍕🇮🇹-🇷🇺♟️ 
 - Age: 21

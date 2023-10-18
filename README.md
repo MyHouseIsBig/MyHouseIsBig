@@ -1,4 +1,4 @@
-## Maxim Gabriel Nicolai Palotti
+## Full-Stack Developer
 
 <img align="right" src="https://i.imgur.com/XwyDbnQ.gif" alt="Illustration of me and my magic powers" />
 

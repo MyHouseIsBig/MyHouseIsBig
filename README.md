@@ -4,12 +4,25 @@
 ![MyHouseIsBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyHouseIsBig&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyHouseIsBig&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)
 
-## About
+## 🇬🇧 About
 
 - Nationality: 🍕🇮🇹-🇷🇺♟️ 
-- Age: 21
+- Age: 22
 - Front-End vs Back-End? I ♥️ both equally
+- DevOps? YES
 
 I’m a full-stack developer/engineer. 
 I'm costantly working hard to get better at coding and make more 💰💰💰. 
-I'm currently open to job offers. 
+I'm always open to job offers. 
+
+
+## 🇮🇹 About
+
+- Nazionalità: 🍕🇮🇹-🇷🇺♟️ 
+- Età: 22
+- Front-End vs Back-End? ♥️ entrambi ugualmente
+- DevOps? SI
+
+Sono uno sviluppatore Full-Stack.
+Costantemente al lavoro per migliorare nella programmazione e fare più 💰💰💰. 
+Sempre disponibile a valutare opportunità lavorative.

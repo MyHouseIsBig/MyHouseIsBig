@@ -7,7 +7,7 @@
 ## 🇬🇧 About
 
 - Nationality: 🍕🇮🇹-🇷🇺♟️ 
-- Age: 23
+- Age: 24
 - Front-End vs Back-End? I ♥️ both equally
 - DevOps? YES
 
@@ -19,7 +19,7 @@ I'm always open to job offers.
 ## 🇮🇹 About
 
 - Nazionalità: 🍕🇮🇹-🇷🇺♟️ 
-- Età: 23
+- Età: 24
 - Front-End vs Back-End? ♥️ entrambi ugualmente
 - DevOps? SI
 
